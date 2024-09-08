@@ -1,6 +1,8 @@
 flask
+flask-cors
 gunicorn
 transformers
 torch
 Pillow
 pyttsx3
+
